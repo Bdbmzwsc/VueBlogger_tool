@@ -5,19 +5,36 @@ using VueBlogger_configuration_tool;
 using System;
 using System.Net;
 using System.IO;
+using VueBlogger_configuration_tool.Models;
+using VueBlogger_configuration_tool.Transition;
+using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
 
 Console.WriteLine("Running");
 Console.WriteLine("Downloading");
-VueBlogger_configuration_tool.Download.Default_download default_Download = new VueBlogger_configuration_tool.Download.Default_download();
-default_Download.new_download_default_url(@"F:\VueBlogger tool hub\example\", @"F:\VueBlogger tool hub\example\src\");
 Console.WriteLine("Downloaded");
+//VueBlogger_configuration_tool.Download.Default_download.new_download_default_url(@"F:\VueBlogger tool hub\example\", @"F:\VueBlogger tool hub\example", true);
+BlogModel blogModel = new BlogModel();
+
+blogModel = VueBlogger_configuration_tool.Init.Reading.Open(@"F:\VueBlogger-main\");
+Console.WriteLine(blogModel.string_links);
+LinksModel LinksModel= new LinksModel();
+JObject job = JObject.Parse(blogModel.string_links);
+JArray jar=JArray.Parse(job["links"].ToString());
+job=JObject.Parse(jar[0].ToString());
+LinksModel=linksmodeltolinks.linksj_linksm(job.ToString());
+Console.WriteLine(LinksModel.title + " " + LinksModel.desc + " " + LinksModel.link);
+Console.WriteLine(linksmodeltolinks.linksm_linksj(LinksModel));
+
+
+
 
 
 
 
 //download_file("https://github.com/samzhangjy/VueBlogger/archive/refs/heads/main.zip", @"F:\VueBlogger tool hub\example\src.zip");
 
-
+/*
  static string download_file(string Url, string Path)
 {
     HttpWebRequest request = WebRequest.Create(Url) as HttpWebRequest;
@@ -56,6 +73,7 @@ Console.WriteLine("Downloaded");
     }
     
 
-    */
+    
 
 }
+*/

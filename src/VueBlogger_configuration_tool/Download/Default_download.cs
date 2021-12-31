@@ -30,7 +30,7 @@ namespace VueBlogger_configuration_tool.Download
 
         }
 
-        public bool new_download_default_url(string path, string directory_path,bool isgh=false)
+        public static bool new_download_default_url(string path, string directory_path,bool isgh=false)
         {
             try 
             {

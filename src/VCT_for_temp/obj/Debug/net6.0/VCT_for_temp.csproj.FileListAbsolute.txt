@@ -16,3 +16,4 @@ F:\VueBlogger tool hub\src\VCT_for_temp\obj\Debug\net6.0\VCT_for_temp.dll
 F:\VueBlogger tool hub\src\VCT_for_temp\obj\Debug\net6.0\ref\VCT_for_temp.dll
 F:\VueBlogger tool hub\src\VCT_for_temp\obj\Debug\net6.0\VCT_for_temp.pdb
 F:\VueBlogger tool hub\src\VCT_for_temp\obj\Debug\net6.0\VCT_for_temp.genruntimeconfig.cache
+F:\VueBlogger tool hub\src\VCT_for_temp\bin\Debug\net6.0\Newtonsoft.Json.dll

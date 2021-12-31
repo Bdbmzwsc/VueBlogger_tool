@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/iou/46lbQpr9mIq9jtnoHTeKHTNxCeS1Ky05JYiXJrqAiNPQbHm4PuiH5Vugz+ZwAc4HkpM6KzCYEMV0czwhw==",
+  "dgSpecHash": "eMaxmoFCDTCcn+WlgCkaEJFuePkiQYzB3k2aysHGpqvlrZMqy9Z9K14rVGl8QiO2ZbdesQnXM3OMSi9PfWAihA==",
   "success": true,
   "projectFilePath": "F:\\VueBlogger tool hub\\src\\VueBlogger_configuration_tool\\VueBlogger_configuration_tool.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
