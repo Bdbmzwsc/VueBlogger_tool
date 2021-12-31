@@ -5,6 +5,10 @@ VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VueBlogger_tool", "VueBlogger_tool\VueBlogger_tool.csproj", "{CB17EF15-72B0-4C18-ACC9-8B78184820BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VueBlogger_configuration_tool", "VueBlogger_configuration_tool\VueBlogger_configuration_tool.csproj", "{21B62547-C79F-49EC-B3E5-A94F1BF6DE76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VCT_for_temp", "VCT_for_temp\VCT_for_temp.csproj", "{76D4DDBD-3E63-4214-A378-2134B04242E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{CB17EF15-72B0-4C18-ACC9-8B78184820BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CB17EF15-72B0-4C18-ACC9-8B78184820BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CB17EF15-72B0-4C18-ACC9-8B78184820BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21B62547-C79F-49EC-B3E5-A94F1BF6DE76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21B62547-C79F-49EC-B3E5-A94F1BF6DE76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21B62547-C79F-49EC-B3E5-A94F1BF6DE76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21B62547-C79F-49EC-B3E5-A94F1BF6DE76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76D4DDBD-3E63-4214-A378-2134B04242E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76D4DDBD-3E63-4214-A378-2134B04242E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76D4DDBD-3E63-4214-A378-2134B04242E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76D4DDBD-3E63-4214-A378-2134B04242E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

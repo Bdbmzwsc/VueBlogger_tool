@@ -1,0 +1,12 @@
+F:\VueBlogger tool hub\src\VueBlogger_configuration_tool\bin\Debug\net6.0\VueBlogger_configuration_tool.deps.json
+F:\VueBlogger tool hub\src\VueBlogger_configuration_tool\bin\Debug\net6.0\VueBlogger_configuration_tool.dll
+F:\VueBlogger tool hub\src\VueBlogger_configuration_tool\bin\Debug\net6.0\ref\VueBlogger_configuration_tool.dll
+F:\VueBlogger tool hub\src\VueBlogger_configuration_tool\bin\Debug\net6.0\VueBlogger_configuration_tool.pdb
+F:\VueBlogger tool hub\src\VueBlogger_configuration_tool\obj\Debug\net6.0\VueBlogger_configuration_tool.csproj.AssemblyReference.cache
+F:\VueBlogger tool hub\src\VueBlogger_configuration_tool\obj\Debug\net6.0\VueBlogger_configuration_tool.GeneratedMSBuildEditorConfig.editorconfig
+F:\VueBlogger tool hub\src\VueBlogger_configuration_tool\obj\Debug\net6.0\VueBlogger_configuration_tool.AssemblyInfoInputs.cache
+F:\VueBlogger tool hub\src\VueBlogger_configuration_tool\obj\Debug\net6.0\VueBlogger_configuration_tool.AssemblyInfo.cs
+F:\VueBlogger tool hub\src\VueBlogger_configuration_tool\obj\Debug\net6.0\VueBlogger_configuration_tool.csproj.CoreCompileInputs.cache
+F:\VueBlogger tool hub\src\VueBlogger_configuration_tool\obj\Debug\net6.0\VueBlogger_configuration_tool.dll
+F:\VueBlogger tool hub\src\VueBlogger_configuration_tool\obj\Debug\net6.0\ref\VueBlogger_configuration_tool.dll
+F:\VueBlogger tool hub\src\VueBlogger_configuration_tool\obj\Debug\net6.0\VueBlogger_configuration_tool.pdb

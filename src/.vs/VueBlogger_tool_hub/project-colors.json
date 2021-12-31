@@ -15,7 +15,22 @@
       "ProjectGuid": "eeed8f99-c5a6-4e06-8da5-10fb3f6c6304",
       "DisplayName": "VueBlogger_tool",
       "ColorIndex": 1
+    },
+    "cb17ef15-72b0-4c18-acc9-8b78184820be": {
+      "ProjectGuid": "cb17ef15-72b0-4c18-acc9-8b78184820be",
+      "DisplayName": "VueBlogger_tool",
+      "ColorIndex": 2
+    },
+    "21b62547-c79f-49ec-b3e5-a94f1bf6de76": {
+      "ProjectGuid": "21b62547-c79f-49ec-b3e5-a94f1bf6de76",
+      "DisplayName": "VueBlogger_configuration_tool",
+      "ColorIndex": 3
+    },
+    "76d4ddbd-3e63-4214-a378-2134b04242e8": {
+      "ProjectGuid": "76d4ddbd-3e63-4214-a378-2134b04242e8",
+      "DisplayName": "VCT_for_temp",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 5
 }
